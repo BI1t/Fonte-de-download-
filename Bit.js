@@ -8,7 +8,7 @@
       ],
       "title": "Elden Ring.zip",
       "uploadDate": "2025-02-21T18:54:06.000Z"
-    }
+    },
      {
       "fileSize": "1.35 GB",
       "uris": [
@@ -16,7 +16,7 @@
       ],
       "title": "Perfect Heist 2.zip",
       "uploadDate": "2025-02-21T18:54:06.000Z"
-        }
+        },
          {
       "fileSize": "624.88 MB",
       "uris": [
@@ -24,6 +24,6 @@
       ],
       "title": "Barony PT-BR.zip",
       "uploadDate": "2025-02-21T18:54:06.000Z"
-        }
+        },
   ]
 }
