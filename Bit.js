@@ -2,7 +2,7 @@
   "name": "Bitolinhas",
   "downloads": [
     {
-      "fileSize": "73.47 GB",
+      "fileSize": "73.47 GBm",
       "uris": [
         "https://1fichier.com/?0pfne05m5quoeuiwfqqx"
       ],
