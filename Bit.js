@@ -30,7 +30,7 @@
       "uris": [
         "https://1fichier.com/?mzfwrddmsuvz8nrc9tbl"
       ],
-      "title": "Stick Fight.zip",
+      "title": "Stick Fight: The Game.zip",
       "uploadDate": "2025-02-21T18:54:06.000Z"
         },
         {
